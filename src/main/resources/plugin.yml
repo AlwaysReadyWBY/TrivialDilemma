@@ -1,0 +1,8 @@
+name: TrivialDilemma
+version: '1.0.0'
+main: top.alwaysready.trivialDilemma.TrivialDilemma
+api-version: '1.21'
+authors: [ AlwaysReadyWby ]
+description: Just some random trivial features
+commands:
+  trivialreload:

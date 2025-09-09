@@ -1,0 +1,10 @@
+version: 3
+modules:
+  item_frame:
+    enabled: true
+  armor_stand:
+    enabled: true
+  casing:
+    enabled: true
+  wax:
+    enabled: true
